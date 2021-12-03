@@ -5,7 +5,7 @@ I used to know about random forest when i was doing digital soil mapping in R. N
 ### Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
 | -----------------------------| ---------------------| ------------------------------------------| -----------------------|
-| **Assistant Data Scientist** | **Elbrus Bootcamp**  | **Mentoring. ML. DL**                     | **03.2021 - till now** |
+| **Data Scientist**           | **Elbrus Bootcamp**  | **Mentoring. ML. DL**                     | **03.2021 - till now** |
 | Environmental Engineer       | *Freelance*          | Environmental engineering. Data analysis  | 11.2016 - 09.2020      |
 | Lead Environmental Consultant| Ecosky               | GIS support. Data analysis                | 10.2015 - 10.2016      |
 | Environmental Consultant     | Ecosky               | Environmental monitoring and control      | 04.2015 - 09.2015      |
