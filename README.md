@@ -24,6 +24,9 @@ More about education and experience at my [personal page](https://ulyumdzhi.tild
 - [Emergency DataHack](https://github.com/ulyumdzhi/Emergency) – Water level forecasting on River Lena (awarded a special [prize](datahack.png))
 - [Raifhack DS](https://github.com/ulyumdzhi/Raifhack) – Commercial real estate appraisal ([top-15%](raifhack.png))
 
+### Mentoring experience
+Tech/concept support, code review, etc.
+- https://github.com/ulyumdzhi/elbrus-ds-final-projects
 
 
 ### Contact me 
