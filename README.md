@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I used to know about random forest when i was doing digital soil mapping in R. Now i know some python's comprehensions.
+I used to know about random forest when i was doing digital soil mapping in R. I know some python's comprehensions now.
 
 ### Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
