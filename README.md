@@ -21,7 +21,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/ulyumdzh
 More about education and experience at my [personal page](https://ulyumdzhi.tilda.ws).<br>
 
 ### Hackathon participation 
-- [Emergency DataHack](https://github.com/ulyumdzhi/Emergency) – Water level forecasting on River Lena (awarded a special [prize](datahack.png))
+- [Emergency DataHack](https://github.com/ulyumdzhi/Emergency) – Water level forecasting of Lena River (awarded a special [prize](datahack.png))
 - [Raifhack DS](https://github.com/ulyumdzhi/Raifhack) – Commercial real estate appraisal ([top-15%](raifhack.png))
 
 ### Mentoring experience
