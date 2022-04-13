@@ -18,7 +18,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/ulyumdzh
 - **Refresher training** in Data Science at National University of Science and Technology "MISIS" (11.2020 — 02.2021)
 - **Specialist Degree** in Environmental and Natural Resource Management at Lomonosov Moscow State University (2009 - 2014)
 
-More about education and experience at my [personal page](https://ulyumdzhi.tilda.ws).<br>
+More about education and experience at my [personal page](https://ulyumdzhi.site).<br>
 
 ### Hackathon participation 
 - [Emergency DataHack](https://github.com/ulyumdzhi/Emergency) – Water level forecasting of Lena River (awarded a special [prize](datahack.png))
