@@ -55,3 +55,5 @@ Tech/concept support, code review, etc.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ulyumdzhi.ulyumdzhi)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/uliumdzhi)](https://twitter.com/uliumdzhi)
+
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://youtu.be/dQw4w9WgXcQ)
