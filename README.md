@@ -15,8 +15,8 @@ I was familiar with random forest already as I was working on digital soil mappi
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/ulyumdzhi/).<br>
 
 ### Education 
-- **Refresher training** in Data Science at National University of Science and Technology "MISIS" (11.2020 — 02.2021)
-- **Specialist Degree** in Environmental and Natural Resource Management at Lomonosov Moscow State University (2009 - 2014)
+- [**Refresher training**](img/refresher_training_ds.jpeg) in Data Science at National University of Science and Technology "MISIS" (11.2020 — 02.2021)
+- [**Specialist Degree**](img/diploma_pages/diploma_page_3.jpg/) in Environmental and Natural Resource Management at Lomonosov Moscow State University (2009 - 2014)
 
 More about education and experience at my [personal page](https://ulyumdzhi.site).<br>
 
