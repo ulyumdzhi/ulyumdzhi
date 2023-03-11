@@ -6,7 +6,7 @@ I was familiar with random forest already as I was working on digital soil mappi
 | Job Position                 | Company              | Field                                     | Work Period            |
 | -----------------------------| ---------------------| ------------------------------------------| -----------------------|
 | **Data Scientist**           | **Elbrus Bootcamp**  | **Mentoring. ML. DL**                     | **03.2021 - till now** |
-| Environmental Engineer       | *multiple employers* | Environmental engineering. Data analysis  | 11.2016 - 09.2020      |
+| Engineer/Data Analyst        | *multiple employers* | Environmental engineering. Data analysis  | 11.2016 - 09.2020      |
 | Lead Environmental Consultant| Ecosky               | GIS support. Data analysis                | 10.2015 - 10.2016      |
 | Environmental Consultant     | Ecosky               | Environmental monitoring and control      | 04.2015 - 09.2015      |
 | Junior Research Scientist    | Dokuchaev SSI        | Digital Soil Mapping                      | 01.2015 - 10.2015      |
@@ -43,7 +43,6 @@ Tech/concept support, code review, etc.
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
 [![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.aiogram.dev/)
-[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
