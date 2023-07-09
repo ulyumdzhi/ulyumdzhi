@@ -5,12 +5,11 @@ I was familiar with random forest already as I was working on digital soil mappi
 ### Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
 | -----------------------------| ---------------------| ------------------------------------------| -----------------------|
-| **Data Scientist**           | **Elbrus Bootcamp**  | **Mentoring. ML. DL**                     | **03.2021 - till now** |
+| **ML Engineer**              | ***NDA***            | **ML/DL Backend. Consulting**             | **07.2023 - till now** |
+| Data Scientist               | Elbrus Bootcamp      | ML/DL. Mentoring                     | 03.2021 - 07.2023      |
 | Engineer/Data Analyst        | *multiple employers* | Environmental engineering. Data analysis  | 11.2016 - 09.2020      |
-| Lead Environmental Consultant| Ecosky               | GIS support. Data analysis                | 10.2015 - 10.2016      |
-| Environmental Consultant     | Ecosky               | Environmental monitoring and control      | 04.2015 - 09.2015      |
-| Junior Research Scientist    | Dokuchaev SSI        | Digital Soil Mapping                      | 01.2015 - 10.2015      |
-| Junior Research Assistant    | Dokuchaev SSI        | Research of Caspian Lowland               | 03.2014 - 12.2014      |
+| Lead Environmental Consultant| Ecosky               | GIS. Data analysis. Project management    | 10.2015 - 10.2016      |
+| Junior Research Scientist / Assistant | Dokuchaev SSI | Digital Soil Mapping. Remote sensing. ML | 03.2014 - 10.2015      |
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/ulyumdzhi/).<br>
 
