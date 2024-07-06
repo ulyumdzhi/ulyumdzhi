@@ -3,12 +3,17 @@
 I was familiar with random forest already as I was working on digital soil mapping in R.<br> 
 Since then I've learned some python's comprehensions.
 
+Now I'm here: https://github.com/ulyumdzhiev
+
+
+
 ### Work experience 
 | Job Position                 | Company              | Field                                     | Work Period            |
 | -----------------------------| ---------------------| ------------------------------------------| -----------------------|
-| **ML Engineer**              | ***NDA***            | **ML/DL Backend. Advising**               | **6.2023 - till now**  |
-| Data Scientist               | Elbrus Bootcamp      | ML/DL. Mentoring                          | 03.2021 - 8.2023       |
-| Engineer/Data Analyst        | *multiple employers* | Environmental engineering. Data analysis  | 10.2015 - 9.2020       |
+| **Solutions Engineer**       | **Toloka.AI**        | **Crowd/Expert Solutions**                | **06.2024 - till now** |
+| ML Engineer                  | Kidskey + NDA        | ML/DL Backend. Advising                   | 06.2023 - 06.2024      |
+| Data Scientist               | Elbrus Bootcamp      | ML/DL. Mentoring                          | 03.2021 - 08.2023      |
+| Engineer/Data Analyst        | *multiple employers* | Environmental engineering. Data analysis  | 10.2015 - 09.2020      |
 | Junior Research Scientist/Assistant| Dokuchaev SSI  | Data analysis. ML. Digital Soil Mapping.  | 03.2014 - 10.2015      |
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/ulyumdzhi/).<br>
