@@ -30,8 +30,6 @@ More about education and general experience at my [personal page](https://ulyumd
 
 ### Mentoring experience
 Tech/concept support, code review, etc.
-- https://github.com/ulyumdzhi/elbrus-ds-final-projects
-
 
 ### Contact me 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ulyumdzhi)
